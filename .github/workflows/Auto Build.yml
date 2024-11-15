@@ -25,17 +25,14 @@ jobs:
             repoName: duocangbox
             branchName: main
             diy: wwz09DC.sh
-            java_ver: 17
           - userName: gj8438
             repoName: box
             branchName: main
             diy: gj8438DC.sh
-            java_ver: 11
           - userName: mlabalabala
             repoName: box
             branchName: main
             diy: mlabalabalaDC.sh
-            java_ver: 17
           - userName: muzi08168
             repoName: duobox
             branchName: main
